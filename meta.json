@@ -1,0 +1,35 @@
+{
+  "id": "40875023757",
+  "publishPath": "2019/reservoir/",
+  "stagingUrl": "http://stage-projects.dailycal.org/2019/reservoir/index.html",
+  "url": "http://projects.dailycal.org/2019/reservoir/",
+  "timestamp": "2018-04-10T08:13-0400",
+  "dateline": "04/10/18 08:13 PM EDT",
+  "header": {
+    "headline": "This is your headline in the metadata file",
+    "subhed": "Subhed lives in the metadata.",
+    "byline": "Byline in metadata",
+    "byline_link": "https://www.dailycal.org/"
+  },
+  "share": {
+    "fbook": {
+      "card_title": "reservoir",
+      "card_description": "UC Berkeley's independent student-run newspaper",
+      "author": "dailycal"
+    },
+    "twitter": {
+      "card_title": "reservoir",
+      "share_tweet": "UC Berkeley's independent student-run newspaper",
+      "card_description": "The latest news from The Daily Californian.",
+      "author": "@dailycal"
+    },
+    "image": {
+      "url": "http://projects.dailycal.org/2019/reservoir/images/share.jpg",
+      "alt": "<Text>",
+      "type": "image/jpeg",
+      "width": "600",
+      "height": "300"
+    },
+    "keywords": "Daily Cal, news"
+  }
+}
