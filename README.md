@@ -2,7 +2,7 @@
 
 | Title | reservoir |
 |-|-|
-| Developer    | [Brian Kim](briankim@dailycal.org), [Manasi Aranake](maranake@dailycal.org) |
+| Developer    | [Brian Kim](mailto:briankim@dailycal.org), [Manasi Aranake](mailto:maranake@dailycal.org) |
 | Link | [http://projects.dailycal.org/2019/reservoir/](http://projects.dailycal.org/2019/reservoir/) |
 
 
